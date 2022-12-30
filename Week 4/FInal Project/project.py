@@ -82,7 +82,7 @@ if check is True:
         elif n2==3:
             print(f"cube of { n1} =",power(n1,n2))
         else:
-            print(f"{n2}th root of { n1} =",power(n1,n2))
+            print(f"{n2}th power of { n1} =",power(n1,n2))
 
     else:
         print("invalid option")
